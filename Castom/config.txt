@@ -1,5 +1,0 @@
-# Developer   : misha korzhik
-# config code : 14nY2wpMs82oU49ThI7
-
-# user : Administrator
-# pass : Adm1_control
